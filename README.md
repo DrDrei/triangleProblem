@@ -26,7 +26,7 @@ I wasn't sure if I had to build a general solution for a dynamic question, so I 
 
 
 ## EXECUTION:
-To run the code and look at it, you can go to my this codepen link. You'll find all the code in the JS console. Output is shown in the console. It's the same as below. To run the code, you can just add a space anywhere in the code, and it will update and rerun itself (if it doesn't there should be a run button on the top).
+To run the code and look at it, you can go to my this codepen link. You'll find all the code in the JS console. Output is shown in the console. It's the same as below. You can just add a space anywhere in the code, and it will update and rerun itself (if it doesn't there should be a run button on the top). I've also included the same js code in this repo.
 * [codePen](https://codepen.io/DrDrei/pen/MvaZzV/)
 
 
@@ -34,23 +34,23 @@ To run the code and look at it, you can go to my this codepen link. You'll find 
 Following color codes correspond to these nodes (you can see how I labeled the nodes in the screenshot on github)
 [11,   12,  13,  14,  15,  16,  17, 18,  19,  20,   21]
 
-["A", "C", "B", "C", "B", "A", "C", "A", "C", "C", "A"]
-["A", "C", "B", "C", "B", "A", "A", "A", "C", "C", "B"]
-["A", "C", "B", "C", "B", "A", "C", "A", "C", "C", "B"]
-["A", "C", "B", "C", "B", "A", "A", "A", "C", "C", "C"]
-["A", "C", "B", "C", "B", "A", "C", "A", "C", "C", "C"]
-["A", "C", "B", "C", "B", "A", "A", "B", "C", "C", "A"]
-["A", "C", "B", "C", "B", "A", "C", "B", "C", "C", "A"]
-["A", "C", "B", "C", "B", "A", "A", "B", "C", "C", "B"]
-["A", "C", "B", "C", "B", "A", "C", "B", "C", "C", "B"]
-["A", "C", "B", "C", "B", "A", "A", "B", "C", "C", "C"]
-["A", "C", "B", "C", "B", "A", "C", "B", "C", "C", "C"]
-["A", "C", "B", "C", "B", "A", "A", "C", "C", "C", "A"]
-["A", "C", "B", "C", "B", "A", "C", "C", "C", "C", "A"]
-["A", "C", "B", "C", "B", "A", "A", "C", "C", "C", "B"]
-["A", "C", "B", "C", "B", "A", "C", "C", "C", "C", "B"]
-["A", "C", "B", "C", "B", "A", "A", "C", "C", "C", "C"]
-["A", "C", "B", "C", "B", "A", "C", "C", "C", "C", "C"]
-17
-There are a total of 17 possible minimized color schemes with a minimum of 3 tri-color triangles formed.
+* ["A", "C", "B", "C", "B", "A", "C", "A", "C", "C", "A"]
+* ["A", "C", "B", "C", "B", "A", "A", "A", "C", "C", "B"]
+* ["A", "C", "B", "C", "B", "A", "C", "A", "C", "C", "B"]
+* ["A", "C", "B", "C", "B", "A", "A", "A", "C", "C", "C"]
+* ["A", "C", "B", "C", "B", "A", "C", "A", "C", "C", "C"]
+* ["A", "C", "B", "C", "B", "A", "A", "B", "C", "C", "A"]
+* ["A", "C", "B", "C", "B", "A", "C", "B", "C", "C", "A"]
+* ["A", "C", "B", "C", "B", "A", "A", "B", "C", "C", "B"]
+* ["A", "C", "B", "C", "B", "A", "C", "B", "C", "C", "B"]
+* ["A", "C", "B", "C", "B", "A", "A", "B", "C", "C", "C"]
+* ["A", "C", "B", "C", "B", "A", "C", "B", "C", "C", "C"]
+* ["A", "C", "B", "C", "B", "A", "A", "C", "C", "C", "A"]
+* ["A", "C", "B", "C", "B", "A", "C", "C", "C", "C", "A"]
+* ["A", "C", "B", "C", "B", "A", "A", "C", "C", "C", "B"]
+* ["A", "C", "B", "C", "B", "A", "C", "C", "C", "C", "B"]
+* ["A", "C", "B", "C", "B", "A", "A", "C", "C", "C", "C"]
+* ["A", "C", "B", "C", "B", "A", "C", "C", "C", "C", "C"]
+* 17
+* There are a total of 17 possible minimized color schemes with a minimum of 3 tri-color triangles formed.
 
