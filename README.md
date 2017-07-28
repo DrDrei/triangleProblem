@@ -13,6 +13,12 @@ Once again adding node 17 to nodes 18 and 21, and running them for each possible
 
 I wasn't sure if I had to build a general solution for a dynamic question, so I took the easy route and just solved it. I wanted to use recursion but wasn't entirely 100% sure how to do that and was running into timeouts in codepen. I left all the extra code that I wanted to use, but didn't, on the bottom for you to view.
 
+## IMPROVEMENTS
+First of all I would probably have gone with python. It's a little easier to deal with code when you are using your own dev environment and I think it would run much quicker so I could do deeper nested loops without running into timeouts. Secondly, I would consider trying recursion again. I think it'd be invaluable in this case. For this to work I had to first build the triangle checking function right off the bat. Knowing how many triangles have formed already is invaluable for the most part. 
+
+Get a better way of tracking the possible colors, if the node is out of possible colors, and if the node needs to check every combination to optimize. Was not 100% sure on the best way to deal with this problem. So in the future maybe I should try to hash that out before moving ahead with the coding portion.
+
+
 ## LENGTH:
 * around 5 hours.
 
