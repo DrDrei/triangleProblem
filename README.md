@@ -20,7 +20,7 @@ Get a better way of tracking the possible colors, if the node is out of possible
 
 
 ## LENGTH:
-* around 5 hours.
+* 5 hours.
 
 ## RESOURCES:
 * codepen
