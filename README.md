@@ -32,7 +32,7 @@ Get a better way of tracking the possible colors, if the node is out of possible
 
 
 ## EXECUTION:
-To run the code and look at it, you can go to my this codepen link. You'll find all the code in the JS console. Output is shown in the console. It's the same as below. You can just add a space anywhere in the code, and it will update and rerun itself (if it doesn't there should be a run button on the top). I've also included the same js code in this repo.
+To run the code and look at it, you can go to my this codepen link. You'll find all the code in the JS console. Output is shown in the console (bottom left corner to bring it up). It's the same as below. You can just add a space anywhere in the code, and it will update and rerun itself (if it doesn't there should be a run button on the top). I've also included the same js code in this repo.
 * [codePen](https://codepen.io/DrDrei/pen/MvaZzV/)
 
 
